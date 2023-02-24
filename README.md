@@ -12,3 +12,7 @@ Activate:
         .\venv\Scripts\activate
     Unix:
         source venv/bin/activate
+
+# Use pip
+After starting the python environment install the libraries:
+pip install -r requirements.txt
