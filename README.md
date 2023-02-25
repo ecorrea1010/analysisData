@@ -13,6 +13,9 @@ Activate:
     Unix:
         source venv/bin/activate
 
+Deactivate:
+    deactivate name_venv
+
 # Use pip
 After starting the python environment install the libraries:
 pip install -r requirements.txt
