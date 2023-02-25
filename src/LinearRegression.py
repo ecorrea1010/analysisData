@@ -2,7 +2,7 @@ import pandas as pd
 from sklearn.linear_model import LinearRegression
 
 def getData():
-    file = pd.read_csv('../files/data.csv')
+    file = pd.read_csv('files/data.csv')
     return file.dropna()
 
 def filterData(file):

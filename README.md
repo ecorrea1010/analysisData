@@ -19,3 +19,10 @@ Deactivate:
 # Use pip
 After starting the python environment install the libraries:
 pip install -r requirements.txt
+
+# Start linear regression
+To start the algorithm, run the following command
+    Windows:
+        py src/LinearRegression.py
+    Unix:
+        python3 src/LinearRegression.py
