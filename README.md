@@ -26,3 +26,10 @@ To start the algorithm, run the following command
         py src/LinearRegression.py
     Unix:
         python3 src/LinearRegression.py
+
+# Start logical regression
+To start the algorithm, run the following command
+    Windows:
+        py src/LogicalRegression.py
+    Unix:
+        python3 src/LogicalRegression.py
