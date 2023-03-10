@@ -33,3 +33,10 @@ To start the algorithm, run the following command
         py src/LogicalRegression.py
     Unix:
         python3 src/LogicalRegression.py
+
+# Start decision trees and classification
+To start the algorithm, run the following command
+    Windows:
+        py src/DecisionTreeClassifier.py
+    Unix:
+        python3 src/DecisionTreeClassifier.py
